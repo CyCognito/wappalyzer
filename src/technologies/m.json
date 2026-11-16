@@ -995,7 +995,7 @@
       "markoVars": ""
     },
     "oss": true,
-    "scripts": "\\.marko(\\.js)?",
+    "scripts": "\\.marko(\\.js)?(?![a-z0-9])",
     "website": "https://markojs.com"
   },
   "Master Slider": {
